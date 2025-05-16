@@ -1,2 +1,2 @@
 # unsupervised_learning
-Wine Data Clustering using unsuper vised learning
+Wine Data Clustering using unsupervised learning
